@@ -11,7 +11,7 @@ var port = server.address().port;
 });
 
 //URL for our API request
-var APIcallUrl = 'https://api.worldweatheronline.com/premium/v1/weather.ashx?q=52.5275,13.4025&num_of_days=7&key=8fec97d499b046ccbbc70636172004&tp=24&format=json';
+var APIcallUrl = 'https://api.worldweatheronline.com/premium/v1/weather.ashx?q=52.5275,13.4025&num_of_days=7&key=33aba79f8122422b863101947172606&tp=24&format=json';
 
 function dayOfWeekAsString(dayIndex) {
     var day=["Monday","Tuesday","Wednesday","Thursday","Friday","Saterday","Sunday"];
